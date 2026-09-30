@@ -1,0 +1,23 @@
+{
+  "name": "devscale-platform",
+  "version": "1.0.0",
+  "description": "DevScale is a production-style Kubernetes platform deployed on AWS using Infrastructure as Code, GitOps, and cloud-native observability.",
+  "homepage": "https://github.com/JoshuaOnaiwu/devscale-platform#readme",
+  "bugs": {
+    "url": "https://github.com/JoshuaOnaiwu/devscale-platform/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoshuaOnaiwu/devscale-platform.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
