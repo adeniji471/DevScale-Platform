@@ -140,8 +140,3 @@ This project demonstrates:
 - Horizontal pod autoscaling
 - Advanced observability dashboards
 - Multi-service microservice deployment
-
-
-delete this later:https:git clone //github.com/JoshuaOnaiwu/devscale-platform.git
-
-my linkedin url: www.linkedin.com/in/michael-adeniji-8b75b01b5
